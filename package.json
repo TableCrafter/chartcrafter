@@ -1,0 +1,12 @@
+{
+  "name": "chartcrafter-wp-visualizer",
+  "version": "1.1.0",
+  "description": "Minimalist testing environment for ChartCrafter",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "jsdom": "^22.1.0"
+  }
+}
